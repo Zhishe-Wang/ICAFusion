@@ -10,7 +10,7 @@ Pytorch >=1.6.0
 
 ## Training Dataset
 
-[TNO](https://ﬁgshare.com/articles/TN Image Fusion Dataset/1008029) is utilized to train our network.
+[TNO](https://ﬁgshare.com/articles/TN_Image_Fusion_Dataset/1008029) is utilized to train our network.
 
 ## Ciation
 If this work is helpful to you, please cite it as:
